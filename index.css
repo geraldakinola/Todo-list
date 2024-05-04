@@ -1,0 +1,136 @@
+.container {
+    padding: 300px;
+    background-color: #C3C4E0 ;
+    margin-right: 50px;
+    margin-left: 50px;
+    justify-content: center;
+    text-justify: auto;
+    border-radius: 10px
+    ;
+}
+
+.heading {
+    font-size: xx-large;
+    text-align: center;
+    color: black;
+    margin-right: 100px;
+        margin-left: 100px;
+        margin-top: -280px;
+        margin-bottom: 30px;
+    
+}
+
+.enter-task{
+    padding: 40px;
+    background-color: #876FB7;
+    margin-right: -80px;
+        margin-left: -80px;
+        display: block;
+        border-radius: 3px;
+        font-size: medium;
+}
+
+.button {
+    margin-left: 200px;
+    color: #E0C6D4;
+   background-color:#88458D ;
+    size: 10px;
+    font-size: small;
+}
+
+.contents {
+    padding: 80px;
+    background-color: #876FB7;
+    margin-top: 20px;
+    margin-right: -80px;
+        margin-left: -80px;
+        border-radius: 3px;
+        display: block;
+}
+
+.item1 {
+    padding: 5px;
+    color: #C8A8C4;
+    flex: auto;
+    background-color: #8C2F8E;
+    margin-top: -20px;
+    font-size: small;
+    margin-right: -50px;
+        margin-left: -50px;
+        border-radius: 2px;
+}
+
+.button1 {
+    text-decoration: black;
+    background-color: #2F152F;
+    color: #D9D7C0;
+    size: 10px;
+    font-size: smaller;
+    margin-left: 230px;
+}
+
+.item2 {
+    padding: 5px;
+    color: #C8A8C4;
+    flex: auto;
+    display: block;
+    background-color:#8C2F8E ;
+    margin-top: 20px;
+    font-size: small;
+    margin-right: -50px;
+    margin-left: -50px;
+    border-radius: 2px;
+}
+
+.button2 {
+    text-decoration: black;
+    background-color: #2F152F;
+    color: #D9D7C0;
+    size: 10px;
+    font-size: smaller;
+    margin-left: 335px;
+}
+
+.item3 {
+    padding: 5px;
+    color: #C8A8C4;
+    flex: auto;
+    display: block;
+    background-color: #8C2F8E;
+    margin-top: 20px;
+    font-size: small;
+    margin-right: -50px;
+    margin-left: -50px;
+    border-radius: 2px;
+}
+
+.button3 {
+    text-decoration: black;
+    background-color: #2F152F;
+    color: #D9D7C0;
+    size: 10px;
+    font-size: smaller;
+    margin-left: 480px;
+}
+
+.item4 {
+    padding: 5px;
+    color: #C8A8C4;
+    flex: auto;
+    display: block;
+    background-color: #8C2F8E;
+    margin-top: 20px;
+    font-size: small;
+    margin-right: -50px;
+    margin-left: -50px;
+    border-radius: 2px;
+}
+
+.button4 {
+    text-decoration: black;
+    background-color: #2F152F;
+    color: #D9D7C0;
+    size: 10px;
+    font-size: smaller;
+    margin-left: 470px;
+}
