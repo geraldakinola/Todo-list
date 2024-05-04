@@ -23,6 +23,7 @@
 .enter-task{
     padding: 40px;
     background-color: #876FB7;
+    color: #DED6EF;
     margin-right: -80px;
         margin-left: -80px;
         display: block;
@@ -31,11 +32,16 @@
 }
 
 .button {
-    margin-left: 200px;
+    margin-left: 400px;
     color: #E0C6D4;
    background-color:#88458D ;
     size: 10px;
     font-size: small;
+}
+
+.task {
+    width: 400px;
+    height: 20px;
 }
 
 .contents {
